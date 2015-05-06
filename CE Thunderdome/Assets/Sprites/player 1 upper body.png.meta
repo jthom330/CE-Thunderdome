@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: d63d806fc4d73894a809c05c540f858d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player 1 upper body_0
+    21300002: player 1 upper body_1
+    21300004: player 1 upper body_2
+    21300006: player 1 upper body_3
+    21300008: player 1 upper body_4
+    21300010: player 1 upper body_5
+    21300012: player 1 upper body_6
+    21300014: player 1 upper body_7
+    21300016: player 1 upper body_8
+    21300018: player 1 upper body_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player 1 upper body_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 114
+        height: 104
+      alignment: 9
+      pivot: {x: .496838778, y: .219322503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player 1 upper body_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 123
+        width: 114
+        height: 110
+      alignment: 9
+      pivot: {x: .5, y: .20514679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player 1 upper body_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 123
+        width: 114
+        height: 112
+      alignment: 9
+      pivot: {x: .512644708, y: .210412025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player 1 upper body_3
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 127
+        width: 115
+        height: 112
+      alignment: 9
+      pivot: {x: .500000238, y: .207194328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player 1 upper body_4
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 128
+        width: 115
+        height: 113
+      alignment: 9
+      pivot: {x: .487465501, y: .203407213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player 1 upper body_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 113
+        height: 104
+      alignment: 9
+      pivot: {x: .493621647, y: .222787619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player 1 upper body_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3
+        width: 114
+        height: 111
+      alignment: 9
+      pivot: {x: .496838897, y: .207803071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player 1 upper body_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2
+        width: 114
+        height: 113
+      alignment: 9
+      pivot: {x: .512644708, y: .209785536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player 1 upper body_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 5
+        width: 117
+        height: 119
+      alignment: 9
+      pivot: {x: .481519401, y: .194134563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player 1 upper body_9
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 7
+        width: 117
+        height: 119
+      alignment: 9
+      pivot: {x: .518481135, y: .197162896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

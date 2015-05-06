@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 65235d63e959ea046935ad62291a13b1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jeff_0
+    21300002: Jeff_1
+    21300004: Jeff_2
+    21300006: Jeff_3
+    21300008: Jeff_4
+    21300010: Jeff_5
+    21300012: Jeff_6
+    21300014: Jeff_7
+    21300016: Jeff_8
+    21300018: Jeff_9
+    21300020: Jeff_10
+    21300022: Jeff_11
+    21300024: Jeff_12
+    21300026: Jeff_13
+    21300028: Jeff_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Jeff_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 291
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jeff_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 294
+        width: 113
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jeff_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 292
+        width: 114
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jeff_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 294
+        width: 115
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jeff_4
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 294
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jeff_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 163
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jeff_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 168
+        width: 114
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jeff_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 167
+        width: 114
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jeff_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 168
+        width: 114
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jeff_9
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 168
+        width: 114
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jeff_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 114
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jeff_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 11
+        width: 114
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jeff_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 10
+        width: 114
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jeff_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 10
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jeff_14
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 10
+        width: 114
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
